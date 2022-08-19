@@ -21,7 +21,9 @@
             "postRestartCommands": [
                 "break main",
                 "continue"
-            ]
+            ],
+           
+            "searchDir": ["E:/Documents/Pico/picoprobe-openocd/scripts"],
         }
     ]
 }
